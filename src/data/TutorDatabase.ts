@@ -35,7 +35,7 @@ export class TutorDatabase extends BaseDatabase {
         .limit(5)
         .offset(offset);
 
-        return result[0]
+        return result
 
     } catch (error) {
       throw new Error(error.sqlMessage || error.message);
