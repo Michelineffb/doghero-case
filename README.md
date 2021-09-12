@@ -1,5 +1,8 @@
 # Case Back end - DogHero
 
+![Animação](https://user-images.githubusercontent.com/79018513/133003718-45f80625-fad0-4a4e-aaea-77a8ba7ed6ca.gif)
+
+
 **Sobre**
 Essa API simula uma aplicação que oferta o serviço de passeios com cachorros. Contempla uma estrutura que suporta usuários a pedir esse novo serviço para seus peludos.
 
